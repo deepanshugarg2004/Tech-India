@@ -1,8 +1,6 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import {
-  Send,
-  Users,
   Search,
   Plus,
   Bell,
